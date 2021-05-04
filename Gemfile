@@ -78,3 +78,5 @@ gem 'capistrano3-delayed-job', '~> 1.0'
 
 # Auditing
 gem 'paper_trail'
+
+gem 'simple_form'
